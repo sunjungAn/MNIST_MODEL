@@ -1,1 +1,3 @@
-# compare-model-CIFAR-10
+# MNIST_MODEL
+
+모델별 MNIST 정확도 
